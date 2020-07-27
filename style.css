@@ -1,0 +1,84 @@
+/* Bordure du CV */
+.bordure{
+    border: 2px black solid;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.taille_bordure{
+    width: 21cm;
+    height: 29cm;
+    background-color: beige;
+}
+/* Zone de texte */
+.nom_prenom{
+    display: flex;
+    justify-content: flex-end;
+    font-size: 45px;
+}
+.poste{
+    display: flex;
+    justify-content: center;
+    text-decoration: underline;
+}
+.profil{
+    display: flex;
+    justify-content: center;
+    text-decoration: underline;
+}
+.paragraphe1{
+    display: flex;
+    justify-content: center;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.competences{
+    display: flex;
+    justify-content: center;
+    text-decoration: underline;
+}
+.experiences_pro{
+    display: flex;
+    justify-content: center;
+    text-decoration: underline;
+}
+.formations{
+    display: flex;
+    justify-content: center;
+    text-decoration: underline;
+}
+.hobbies{
+    display: flex;
+    justify-content: center;
+    text-decoration: underline;
+}
+li{
+    display: flex;
+    justify-content: flex-start;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.info{
+    display: flex;
+    justify-content: flex-end;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+}
+/* Photo */
+.picture_left{
+    float: left;
+    width: 150px;
+}
+.div-categoryContainer{
+        padding: 25px;
+    }
+ .paragraph-right {
+      margin-top : 50px;
+    }
+
+    hr{
+        size: 10px;
+        width: 200px;
+    }
