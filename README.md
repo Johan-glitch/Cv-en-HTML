@@ -1,8 +1,5 @@
-# Cv_en_HTML
+# Cv en HTML
 
-Voici une première ébauche de mon CV, codé en HTML et CSS
-<a href="https://zupimages.net/viewer.php?id=20/31/y0nd.jpg"><img src="https://zupimages.net/up/20/31/y0nd.jpg" alt="" /></a>
+J'ai créé mon propre *CV avec du HTML et du CSS*
 
-
-Voici la version 2 du CV
-<a href="https://zupimages.net/viewer.php?id=20/31/jhwz.jpg"><img src="https://zupimages.net/up/20/31/jhwz.jpg" alt="" /></a>
+<a href="https://zupimages.net/viewer.php?id=20/38/yojr.png"><img src="https://zupimages.net/up/20/38/yojr.png" alt="" /></a>
